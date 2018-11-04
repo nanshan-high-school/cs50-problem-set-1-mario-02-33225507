@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int height;
-    int a;
-    int y;
-    int z;
+    int height, a, y, z;
     cout << "Enter height:";
     cin >> height;
     a = height + 2;
